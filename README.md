@@ -4,6 +4,8 @@
 
 ## Data Dictionary
 
+Data is downloaded from [Kaggle](https://www.kaggle.com/datasets/rupindersinghrana/car-features-and-prices-dataset)
+
 | #  | Variable          | Description                                     | Data Type |
 |----|-------------------|-------------------------------------------------|-----------|
 | 1  | Make              | Name of the manufacturer company                | string    |
